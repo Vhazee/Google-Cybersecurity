@@ -6,6 +6,6 @@ This repo contains coursework, projects and all the work that ill keep on updati
 
 ##Contents:
 
-##Conducting ecurity audit
+##Conducting security audit
 
 

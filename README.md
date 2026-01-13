@@ -9,6 +9,7 @@ Analyzing network attacks using Wireshark
 Reporting attacks using Cybersecurity Incident report e.g Network traffic analysis
 Network hardening
 Using SQL queries to fileter out information during security incidents
+Filter malicious emails using PASTA threat model framework 
 
 
 

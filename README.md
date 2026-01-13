@@ -8,6 +8,8 @@ This repo contains coursework, projects and all the work that ill keep on updati
 Analyzing network attacks using Wireshark
 Reporting attacks using Cybersecurity Incident report e.g Network traffic analysis
 Network hardening
+Using SQL queries to fileter out information during security incidents
+
 
 
 ##Conducting security audit
